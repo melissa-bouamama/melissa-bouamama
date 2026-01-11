@@ -1,58 +1,56 @@
-# Melissa Bouamama
+# Melissa Bouamama – AI Engineer / Data Scientist
 
-Ingénieure **IA / Data Scientist** avec une double formation de niveau Master en **mathématiques appliquées** et **informatique**.  
-Solide base théorique et pratique en modélisation, analyse de données et développement, avec une approche rigoureuse orientée résolution de problèmes et mise en production.
+AI Engineer and Data Scientist with a dual Master’s degree in Applied Mathematics and Computer Science.
+Strong theoretical and practical expertise in modeling, data analysis, and data exploitation, with a rigorous, problem-solving approach focused on solution deployment.
 
----
+## 🎯 Career Objectives
 
-## 🎯 Position recherchée
 - Data Scientist
-- Ingénieure Intelligence Artificielle
-- Ingénieure Data / Machine Learning  
----
+- Artificial Intelligence Engineer
+- Data / Machine Learning Engineer
 
-## 🧠 Domaines d’expertise
-- Analyse et exploitation de données
-- Machine Learning (supervisé / non supervisé)
-- Modélisation mathématique et statistique
-- Algorithmes et structures de données
-- Préparation et qualité des données
-- Explicabilité et évaluation des modèles
+## 🧠 Areas of Expertise
 
----
+- Data analysis and exploitation
+- Supervised and unsupervised Machine Learning
+- Mathematical and statistical modeling
+- Algorithms and data structures
+- Data preparation and quality assurance
+- Model interpretability, evaluation, and optimization
 
-## 💻 Compétences techniques
-**Langages**
+## 💻 Technical Skills
+
+### Languages
+
 - Python
 - SQL
 - R
 
-**Data & IA**
+### Data & AI Libraries
+
 - NumPy, Pandas
 - Scikit-learn
-- Analyse statistique
+- Statistical analysis
 - Feature engineering
-- Validation de modèles
+- Model validation
 
-**Visualisation**
+### Visualization
+
 - Matplotlib
 - Seaborn
 
-**Outils & environnements**
+### Tools & Environments
+
 - Git, GitHub
 - Jupyter Notebook
 - Linux
-- Environnements virtuels (venv / conda)
+- Virtual environments (venv / conda)
 
----
+## 🎓 Education
 
-
-## 🎓 Formation
-- **Master Mathématiques Appliquées** : University of Bejaia
-- **Master Informatique** : Sorbonne University
-
----
+- Master’s in Applied Mathematics – University of Bejaia
+- Master’s in Computer Science – Sorbonne University
 
 ## 📫 Contact
-- Courriel : bouamama.melissa@gmail.com
-- Linkedin : https://www.linkedin.com/in/melissa-b-840bb51b8/
+- Email: bouamama.melissa@gmail.com
+- LinkedIn: linkedin.com/in/melissa-b-840bb51b8
