@@ -4,9 +4,9 @@
 
 ### AI Engineer & Data Scientist
 
-Dual Master's background in Artificial Intelligence & Data Science from Sorbonne University.
+Dual Master's background in Artificial Intelligence and Data Science from Sorbonne University.
 
-Driven by a simple belief: AI matters when it solves meaningful problems. I design and deploy machine learning solutions across Generative AI, NLP, and computer vision, turning data and models into reliable systems with real-world impact.
+Driven by a simple belief: AI creates value when it solves meaningful problems. I design and deploy machine learning solutions across Generative AI, NLP, and computer vision, transforming data and models into reliable systems with real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-b-840bb51b8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bouamama.melissa@gmail.com)
