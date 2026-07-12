@@ -4,8 +4,9 @@
 
 ### AI Engineer & Data Scientist
 
-Dual Master's degree in Applied Mathematics (University of Béjaïa) and Computer Science (Sorbonne University).
-I turn data into reliable, deployable solutions — from statistical modeling to deep learning systems for low-resource languages.
+Dual Master's background in Artificial Intelligence & Data Science from Sorbonne University.
+
+Driven by a simple belief: AI matters when it solves meaningful problems. I design and deploy machine learning solutions across Generative AI, NLP, and computer vision, turning data and models into reliable systems with real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-b-840bb51b8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bouamama.melissa@gmail.com)
