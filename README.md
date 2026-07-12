@@ -20,35 +20,43 @@ Driven by a simple belief: AI creates value when it solves meaningful problems. 
 - Data Scientist
 - Data / Machine Learning Engineer
 
+
 ## 🧠 Areas of Expertise
 
-- Data analysis and exploitation
-- Supervised and unsupervised Machine Learning
-- Deep Learning (CNN, RNN/LSTM, transfer learning)
-- Mathematical and statistical modeling
-- Algorithms and data structures
-- Data preparation, cleaning, and quality assurance
-- Model interpretability, evaluation, and optimization
+- **Artificial Intelligence Engineering**: designing and deploying machine learning solutions for real-world applications
+- **Generative AI & Intelligent Systems**: LLM-based applications, AI assistants, retrieval-augmented generation (RAG), and AI automation
+- **Machine Learning & Predictive Modeling**: developing data-driven models for classification, prediction, and decision support
+- **Deep Learning Applications**: neural architectures for language understanding and computer vision tasks
+- **Data Science & Modeling**: extracting insights from complex datasets through statistical and mathematical approaches
+- **Responsible AI**: model evaluation, interpretability, robustness, and reliability of AI systems
 
 
 ## 💻 Technical Skills
 
-**Languages**
-`Python` · `SQL` · `R`
+**Programming & Development**  
+Python · SQL · R · Java · C · MATLAB · LaTeX
 
-**Data & AI**
-`NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow/Keras` · `Statistical analysis` · `Feature engineering` · `Model validation`
+**Machine Learning & Data Science**  
+Scikit-learn · Pandas · NumPy · Statistical Analysis · Feature Engineering · Model Validation · Segmentation · Regression · Classification · Clustering
 
-**Visualization**
-`Matplotlib` · `Seaborn`
+**Deep Learning & AI Frameworks**  
+PyTorch · TensorFlow · Keras · CNNs · RNNs/LSTMs · Transformers · OpenCV · spaCy
 
-**Tools & Environments**
-`Git/GitHub` · `Jupyter Notebook` · `Linux` · `venv/conda`
+**Generative AI & NLP**  
+LLMs · Prompt Engineering · RAG · LangChain · Hugging Face · Fine-tuning · NLP Applications
+
+**Data Engineering & MLOps**  
+Data Pipelines · Docker · MLflow · Flask/FastAPI · Model Deployment · Testing & Monitoring · Git · GitHub/GitLab · Linux
+
+**Visualization & Development Environment**  
+Matplotlib · Seaborn · Dashboarding · Data Storytelling · Jupyter Notebook · venv/conda
+
 
 ## 🎓 Education
 
 - **Master's in Artificial Intelligence, Machine Learning, and Data Science (MIND)** — Sorbonne University
 - **Master's in Applied Mathematics (Data Sciences & Decision Support)** — University of Béjaïa
+
 
 ## 📫 Contact
 
