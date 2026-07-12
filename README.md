@@ -4,7 +4,7 @@
 
 ### AI Engineer & Data Scientist
 
-Dual Master's background in Artificial Intelligence and Data Science from Sorbonne University.
+Dual Master's background in Artificial Intelligence, Machine Learning and Data Science from Sorbonne University.
 
 Driven by a simple belief: AI creates value when it solves meaningful problems. I design and deploy machine learning solutions across Generative AI, NLP, and computer vision, transforming data and models into reliable systems with real-world impact.
 
@@ -20,6 +20,12 @@ Driven by a simple belief: AI creates value when it solves meaningful problems. 
 - Data Scientist
 - Data / Machine Learning Engineer
 
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Git](https://img.shields.io/badge/Git-orange)
 
 ## 🧠 Areas of Expertise
 
@@ -62,3 +68,7 @@ Matplotlib · Seaborn · Dashboarding · Data Storytelling · Jupyter Notebook �
 
 - 📧 [bouamama.melissa@gmail.com](mailto:bouamama.melissa@gmail.com)
 - 💼 [linkedin.com/in/melissa-b-840bb51b8](https://www.linkedin.com/in/melissa-b-840bb51b8/)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melissa-bouamama)
