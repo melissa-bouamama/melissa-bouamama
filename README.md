@@ -21,12 +21,6 @@ Driven by a simple belief: AI creates value when it solves meaningful problems. 
 - Data / Machine Learning Engineer
 
 
-![Python](https://img.shields.io/badge/Python-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Git](https://img.shields.io/badge/Git-orange)
-
 ## 🧠 Areas of Expertise
 
 - **Artificial Intelligence Engineering**: designing and deploying machine learning solutions for real-world applications
@@ -69,6 +63,10 @@ Matplotlib · Seaborn · Dashboarding · Data Storytelling · Jupyter Notebook �
 - 📧 [bouamama.melissa@gmail.com](mailto:bouamama.melissa@gmail.com)
 - 💼 [linkedin.com/in/melissa-b-840bb51b8](https://www.linkedin.com/in/melissa-b-840bb51b8/)
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melissa-bouamama)
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Git](https://img.shields.io/badge/Git-orange)
