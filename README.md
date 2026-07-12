@@ -62,6 +62,7 @@ Matplotlib · Seaborn · Dashboarding · Data Storytelling · Jupyter Notebook �
 
 - 📧 [bouamama.melissa@gmail.com](mailto:bouamama.melissa@gmail.com)
 - 💼 [linkedin.com/in/melissa-b-840bb51b8](https://www.linkedin.com/in/melissa-b-840bb51b8/)
+- 💼 [Portfolio](https://melissa-bouamama.github.io/)
 
 
 
