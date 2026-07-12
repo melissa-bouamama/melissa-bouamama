@@ -15,9 +15,8 @@ I turn data into reliable, deployable solutions — from statistical modeling to
 ---
 
 ## 🎯 Career Objectives
-
-- Data Scientist
 - Artificial Intelligence Engineer
+- Data Scientist
 - Data / Machine Learning Engineer
 
 ## 🧠 Areas of Expertise
@@ -30,13 +29,6 @@ I turn data into reliable, deployable solutions — from statistical modeling to
 - Data preparation, cleaning, and quality assurance
 - Model interpretability, evaluation, and optimization
 
-## 🚀 Featured Project
-
-### 📖 CAKL — Amazigh Kabyle Latin OCR Corpus & Recognition System
-Design and construction of the first corpus dedicated to offline optical character recognition (OCR) for the Kabyle variant of the Amazigh language, transcribed in the Latin alphabet — over 300,000 images across 77 classes. Two deep learning architectures (a hybrid CNN-BiLSTM model and a DenseNet121-based model) were trained and evaluated, reaching up to 97% recognition accuracy.
-`Python` · `TensorFlow/Keras` · `OpenCV` · `CNN` · `BiLSTM` · `DenseNet121`
-
-*(Master's thesis, University A. Mira of Béjaïa, 2024 — in collaboration with the Center for Research in Amazigh Language and Culture, CRLCA)*
 
 ## 💻 Technical Skills
 
@@ -54,16 +46,10 @@ Design and construction of the first corpus dedicated to offline optical charact
 
 ## 🎓 Education
 
-- **Master's in Computer Science** — Sorbonne University
+- **Master's in Artificial Intelligence, Machine Learning, and Data Science (MIND)** — Sorbonne University
 - **Master's in Applied Mathematics (Data Sciences & Decision Support)** — University of Béjaïa
 
 ## 📫 Contact
 
 - 📧 [bouamama.melissa@gmail.com](mailto:bouamama.melissa@gmail.com)
 - 💼 [linkedin.com/in/melissa-b-840bb51b8](https://www.linkedin.com/in/melissa-b-840bb51b8/)
-
----
-
-<div align="center">
-<sub>Open to Data Science / AI Engineering opportunities.</sub>
-</div>
